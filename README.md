@@ -6,6 +6,3 @@
   <img src="retro_pc.gif" alt="animated" />
 </p>
 
-<p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=chop-dev
-</p>
