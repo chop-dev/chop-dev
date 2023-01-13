@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api/top-langs/?username=chop-dev)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=chop-dev
 </p>
