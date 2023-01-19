@@ -7,11 +7,9 @@
 </p>
 
 <p align="center">
-  in progress...
-  <ul>
-    <li>Updating Portfolio Site</li>
-    <li>JavaScript Projects</li>
-    <li>C# Projects</li>
-    <li>Python Projects</li>
-  </ul>
+   <h3 align="center">In Progress...</h3>
+   <li align="center">Updating Portfolio Site</li>
+   <li align="center">JavaScript Projects</li>
+   <li align="center">C# Projects</li>
+   <li align="center">Python Projects</li>
 </p>
