@@ -6,10 +6,4 @@
   <img src="retro_pc.gif" alt="animated" />
 </p>
 
-<p align="center">
-   <h3 align="center">In Progress...</h3>
-   <li align="center">Updating Portfolio Site</li>
-   <li align="center">JavaScript Projects</li>
-   <li align="center">C# Projects</li>
-   <li align="center">Python Projects</li>
-</p>
+
