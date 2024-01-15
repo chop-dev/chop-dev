@@ -38,8 +38,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/chop-dev/count.svg?"  />
-</div>
-
 ###
